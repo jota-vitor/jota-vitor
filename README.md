@@ -5,7 +5,7 @@
 <img src="assets/terminal.svg" width="100%" alt="construo APIs que não perdem dados. no tempo livre, estudo sistemas distribuídos">
 
 <a href="https://jota-vitor.github.io"><img src="assets/btn-site.svg" height="44" alt="Meu site"></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a83370342/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
 <a href="mailto:joaotatanjo@gmail.com"><img src="assets/btn-email.svg" height="44" alt="E-mail"></a>
 <a href="https://github.com/jota-vitor?tab=repositories"><img src="assets/btn-github.svg" height="44" alt="Repositórios"></a>
 
