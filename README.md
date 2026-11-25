@@ -50,7 +50,7 @@
 <div align="center">
 
 <a href="https://jota-vitor.github.io"><img src="assets/btn-site.svg" height="44" alt="Meu site"></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a83370342/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
 <a href="mailto:joaotatanjo@gmail.com"><img src="assets/btn-email.svg" height="44" alt="E-mail"></a>
 
 </div>
